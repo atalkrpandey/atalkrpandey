@@ -1,5 +1,5 @@
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210317125205/Java-Backend-Development-%E2%80%93-Live-Course-By-GeeksforGeeks1.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Atal kr Pandey</h1>
+<h1 align="center">Hi 👋, I'm Atal Kr Pandey</h1>
 <h3 align="center">A passionate Java backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRiAntT0ri-PmSxR8mfJl_tnnWZsYinyRqoQ&usqp=CAU">
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/@AtalKumarPande4?t=]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atal kumar pandey" height="30" width="40" /></a>
+<a href="[https://twitter.com/@AtalKumarPande4]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atal kumar pandey" height="30" width="40" /></a>
 <a href="[https://linkedin.com/in/atal-kumar-pandey-895965233]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atal kumar pandey" height="30" width="40" /></a>
 <a href="https://fb.com/atal kumar pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atal kumar pandey" height="30" width="40" /></a>
 <a href="https://instagram.com/atalkrpandey99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atalkrpandey99" height="30" width="40" /></a>
