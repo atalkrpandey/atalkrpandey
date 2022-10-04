@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atalkrpandey&label=Profile%20views&color=0e75b6&style=flat" alt="atalkrpandey" /> </p>
 
-<p align="left"> <a href="https://twitter.com/atal kumar pandey" target="blank"><img src="https://img.shields.io/twitter/follow/atal kumar pandey?logo=twitter&style=for-the-badge" alt="atal kumar pandey" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@AtalKumarPande4" target="blank"><img src="https://img.shields.io/twitter/follow/@AtalKumarPande4?logo=twitter&style=for-the-badge" alt="@AtalKumarPande4" /></a> </p>
 
 - 🌱 I’m currently learning **Java Backend,Sprint Boot**
 
