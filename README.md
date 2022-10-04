@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/AtalKumarPande4?t=4rCXhEEUrP1K9bYfqb8stA&s=08]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atal kumar pandey" height="30" width="40" /></a>
+<a href="[https://twitter.com/AtalKumarPande4?t=4rCXhEEUrP1K9bYfqb8stA&s=08]" target="blank"><img align="center" src="[https://twitter.com/AtalKumarPande4?t=4rCXhEEUrP1K9bYfqb8stA&s=08]" alt="atal kumar pandey" height="30" width="40" /></a>
 <a href="[https://linkedin.com/in/atal-kumar-pandey-895965233]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atal kumar pandey" height="30" width="40" /></a>
 <a href="https://fb.com/atalkumar.pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atal kumar pandey" height="30" width="40" /></a>
 <a href="https://instagram.com/atalkrpandey99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atalkrpandey99" height="30" width="40" /></a>
