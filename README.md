@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210317125205/Java-Backend-Development-%E2%80%93-Live-Course-By-GeeksforGeeks1.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atalkrpandey&label=Profile%20views&color=0e75b6&style=flat" alt="atalkrpandey" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@atalkumarpandey4" target="blank"><img src="https://img.shields.io/twitter/follow/@atalkumarpandey4?logo=twitter&style=for-the-badge" alt="@atalkumarpandey4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@atalkumarpande4" target="blank"><img src="https://img.shields.io/twitter/follow/@atalkumarpande4?logo=twitter&style=for-the-badge" alt="@atalkumarpande4" /></a> </p>
 
 - 🌱 I’m currently learning **Java Backend,Sprint Boot**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@atalkumarpandey4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@atalkumarpandey4" height="30" width="40" /></a>
+<a href="https://twitter.com/@atalkumarpande4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@atalkumarpandey4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atal-kumar-pandey-895965233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atal-kumar-pandey-895965233" height="30" width="40" /></a>
 <a href="https://fb.com/atalkumar.pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atalkumar.pandey" height="30" width="40" /></a>
 <a href="https://instagram.com/atalkrpandey99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atalkrpandey99" height="30" width="40" /></a>
