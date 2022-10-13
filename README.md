@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210317125205/Java-Backend-Development-%E2%80%93-Live-Course-By-GeeksforGeeks1.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atalkrpandey&label=Profile%20views&color=0e75b6&style=flat" alt="atalkrpandey" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@atalkumarpande4" target="blank"><img src="https://img.shields.io/twitter/follow/@atalkumarpande4?logo=twitter&style=for-the-badge" alt="@atalkumarpande4" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java Backend,Sprint Boot**
 
