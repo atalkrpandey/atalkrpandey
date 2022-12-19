@@ -11,6 +11,8 @@
 - 💬 Ask me about **Html,css,advance javascript,Java Basic,SQL,Spring boot and AWS**
 
 - 📫 How to reach me **atalkumarpandey19@gmail.com**
+- 👨‍💻 My Protfolio [https://github.com/atalkrpandey/atalkrpandey.github.io](https://github.com/atalkrpandey/atalkrpandey.github.io)
+- 📄 Resume [https://drive.google.com/file/d/1qdJ4LIqkcxyTPMDYxfM4jDvcKhtOdAp2/view?usp=sharing](https://drive.google.com/file/d/1qdJ4LIqkcxyTPMDYxfM4jDvcKhtOdAp2/view?usp=sharing)
 
 - ⚡ Fun fact **Cricket Lover**
 
