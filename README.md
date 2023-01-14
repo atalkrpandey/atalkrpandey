@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **atalkumarpandey19@gmail.com**
 - 👨‍💻 My Protfolio [https://atalkrpandey.github.io]
-- 📄 Resume [https://drive.google.com/file/d/1qdJ4LIqkcxyTPMDYxfM4jDvcKhtOdAp2/view?usp=sharing](https://drive.google.com/file/d/1qdJ4LIqkcxyTPMDYxfM4jDvcKhtOdAp2/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1qdJ4LIqkcxyTPMDYxfM4jDvcKhtOdAp2/view?usp=sharing](https://drive.google.com/file/d/1qdJ4LIqkcxyTPMDYxfM4jDvcKhtOdAp2/view?usp=share_link)
 
 - ⚡ Fun fact **Cricket Lover**
 
